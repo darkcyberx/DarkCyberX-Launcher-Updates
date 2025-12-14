@@ -1,8 +1,8 @@
 {
-    "Version":  "1.1.2",
-    "DownloadUrl":  "https://github.com/darkcyberx/DarkCyberX-Launcher-Updates/releases/download/v1.1.2/DarkCyberX_v1.1.2.zip",
+    "Version":  "1.1.3",
+    "DownloadUrl":  "https://github.com/darkcyberx/DarkCyberX-Launcher-Updates/releases/download/v1.1.3/DarkCyberX_v1.1.3.zip",
     "ReleaseNotes":  " ??????? ????? - First Release\n\n ??????? ????????:\n  Portable Mode\n  120 FPS Unlock\n?  Safe Mode Bypass\n  Registry Optimizations\n  Performance Monitor\n  Dark/Light Theme\n  Advanced Settings\n  Auto-Update",
     "ReleaseDate":  "2025-11-16T00:00:00Z",
-    "FileSize":  69483587,
+    "FileSize":  69504677,
     "IsCritical":  false
 }
