@@ -1,8 +1,9 @@
 {
     "Version":  "1.4.0",
     "DownloadUrl":  "https://github.com/darkcyberx/DarkCyberX-Launcher-Updates/releases/download/v1.4.0/DarkCyberX_v1.4.0.zip",
-    "ReleaseNotes":  " ??????? ????? - First Release\n\n ??????? ????????:\n  Portable Mode\n  120 FPS Unlock\n?  Safe Mode Bypass\n  Registry Optimizations\n  Performance Monitor\n  Dark/Light Theme\n  Advanced Settings\n  Auto-Update",
+    "ReleaseNotes":  " ابديت على الرايق عشان الاخصام بتضايق لحل مشكله الخروج والتجميد",
     "ReleaseDate":  "2025-11-16T00:00:00Z",
     "FileSize":  77613706,
     "IsCritical":  false
+
 }
