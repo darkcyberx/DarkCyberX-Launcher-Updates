@@ -1,2 +1,33 @@
-https://l.facebook.com/l.php?u=https%3A%2F%2Fotieu.com%2F4%2F10493919%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExb0w3SUxpY1V6QWNEZDR3V3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4uSYcd1QBHqMjYBR9usUiDXK2ZTGBLiScdeIy6s0l3voXrKgMULNqPBG9JkQ_aem_zDIhUmwPa57c10wjlPvohw&h=AT1qVOdctVgst7rRz9Be7qJ2KAgowjBq3Pj9RG_YS0a7ZoUj1zpf9yekoMK6GwdTcxkiCN7q_yF2Fjz_Cl9f8foZ87HtAqMDbImPZG_rqg86QeiPpu13C6hkx9a8mb8ZNXBMKzcHDa-iVqYMiA&__tn__=-UK-R&c[0]=AT1qu_RCVeB0z82a4mWkQAZAsvExIZSZZC6Dos84ui8lZP-PLKbd0hsbFj-2lJueH-HuXKYcrnSIdUo-99TGsuQP9T2kbWcQUIuIE65Fb4c0CYfX0GiCNDpe-cJGwBDWpA
-https://l.facebook.com/l.php?u=https%3A%2F%2F2u.pw%2FerczZ%3Ffbclid%3DIwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpQ_Xi_ZA0E7maA9wx8WPi3ETo-aZXgTEBWDWOtcyPXWjf1freWqeRo9IjOj_aem_O161zl2CRVejz0JX3ipczg&h=AT2GbrQnqKbtlDJK5VRKYcHBl4QPGIMOJSHlDfMgVLlO8SsDkT81X-p6Ta5qpuVyTaYZopt15kcuRSlDgBISlQmlqgCjF_W7rupRTUlZfUZcDHWAdhZNgqkUFlZIlA5JZbixbWvSpJhmLu9noA&__tn__=H-R&c[0]=AT1SdMUcgQVjTaJNVSe0b1spMX7G5AQq_dbe1R2PiBkLKAfBWwz_GeXJ6jbjnTfTigxBg9_9XQP4DM_DJsHeh48qgVuxeVdE3Z-qHEQue8jEHkpSXoHxVNMFVBvnPaRs02QkJWFEipR0BP6cmOex6vw1wA
+{
+  "version": "1.1.0",
+  "enabled": true,
+  "ads": [
+    {
+      "id": "link_1",
+      "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fotieu.com%2F4%2F10493919%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExb0w3SUxpY1V6QWNEZDR3V3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4uSYcd1QBHqMjYBR9usUiDXK2ZTGBLiScdeIy6s0l3voXrKgMULNqPBG9JkQ_aem_zDIhUmwPa57c10wjlPvohw&h=AT1qVOdctVgst7rRz9Be7qJ2KAgowjBq3Pj9RG_YS0a7ZoUj1zpf9yekoMK6GwdTcxkiCN7q_yF2Fjz_Cl9f8foZ87HtAqMDbImPZG_rqg86QeiPpu13C6hkx9a8mb8ZNXBMKzcHDa-iVqYMiA&__tn__=-UK-R&c[0]=AT1qu_RCVeB0z82a4mWkQAZAsvExIZSZZC6Dos84ui8lZP-PLKbd0hsbFj-2lJueH-HuXKYcrnSIdUo-99TGsuQP9T2kbWcQUIuIE65Fb4c0CYfX0GiCNDpe-cJGwBDWpA",
+      "weight": 50,
+      "enabled": true,
+      "provider": "ProviderA"
+    },
+    {
+      "id": "link_2",
+      "url": "https://l.facebook.com/l.php?u=https%3A%2F%2F2u.pw%2FerczZ%3Ffbclid%3DIwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpQ_Xi_ZA0E7maA9wx8WPi3ETo-aZXgTEBWDWOtcyPXWjf1freWqeRo9IjOj_aem_O161zl2CRVejz0JX3ipczg&h=AT2GbrQnqKbtlDJK5VRKYcHBl4QPGIMOJSHlDfMgVLlO8SsDkT81X-p6Ta5qpuVyTaYZopt15kcuRSlDgBISlQmlqgCjF_W7rupRTUlZfUZcDHWAdhZNgqkUFlZIlA5JZbixbWvSpJhmLu9noA&__tn__=H-R&c[0]=AT1SdMUcgQVjTaJNVSe0b1spMX7G5AQq_dbe1R2PiBkLKAfBWwz_GeXJ6jbjnTfTigxBg9_9XQP4DM_DJsHeh48qgVuxeVdE3Z-qHEQue8jEHkpSXoHxVNMFVBvnPaRs02QkJWFEipR0BP6cmOex6vw1wA",
+      "weight": 20,
+      "enabled": true,
+      "provider": "ProviderB"
+    },
+    {
+      "id": "link_3",
+      "url": "https://link3.com",
+      "weight": 30,
+      "enabled": false,
+      "provider": "ProviderC"
+    }
+  ]
+}
+
+
+
+
+
+
