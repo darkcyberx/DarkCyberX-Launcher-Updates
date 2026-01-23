@@ -1,8 +1,8 @@
 {
-    "Version":  "1.4.2",
-    "DownloadUrl":  "https://github.com/darkcyberx/DarkCyberX-Launcher-Updates/releases/download/v1.4.2/DarkCyberX_v1.4.2.zip",
-    "ReleaseNotes": "تحديث عيسى الوزان – الإصدار الأول (بناء الشجرة الأساسية)\n\n• اللانشر يدعم PUBG Mobile العالمية والكورية\n• اضغط على اللعبة وشغّلها فورًا بدون انتظار\n• حساب Guest ثابت لكل جهاز — مدى الحياة\n• أداء فائق وثبات عالي (اللهم بارك)\n• دعم كامل لمحاكي 64-bit الأفضل حاليًا",
+    "Version":  "1.4.3",
+    "DownloadUrl":  "https://github.com/darkcyberx/DarkCyberX-Launcher-Updates/releases/download/v1.4.3/DarkCyberX_v1.4.3.zip",
+    "ReleaseNotes":  " ??????? ????? - First Release\n\n ??????? ????????:\n  Portable Mode\n  120 FPS Unlock\n?  Safe Mode Bypass\n  Registry Optimizations\n  Performance Monitor\n  Dark/Light Theme\n  Advanced Settings\n  Auto-Update",
     "ReleaseDate":  "2025-11-16T00:00:00Z",
-    "FileSize":  33972550,
+    "FileSize":  33972807,
     "IsCritical":  false
 }
