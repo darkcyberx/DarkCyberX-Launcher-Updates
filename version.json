@@ -1,8 +1,8 @@
 {
-    "Version":  "4.0.4",
-    "DownloadUrl":  "https://github.com/darkcyberx/DarkCyberX-Launcher-Updates/releases/download/v4.0.4/DarkCyberX_v4.0.4.zip",
+    "Version":  "4.0.5",
+    "DownloadUrl":  "https://github.com/darkcyberx/DarkCyberX-Launcher-Updates/releases/download/v4.0.5/DarkCyberX_v4.0.5.zip",
     "ReleaseNotes":  "🔥 الإصدار الاحترافي - DarkCyberX Professional Edition\n\n📌 المميزات الجديدة والحصرية:\n\n☢️ الحظر النووي للتنزيل (Nuclear Block):\n- دمج محرك WFP (Terror) الأصلي داخل اللانشر لمنع التنزيل التلقائي من جذور النظام (Kernel-Level).\n- يعمل بكفاءة 100% بدون ملفات خارجية أو مسارات ثابتة (Self-Contained).\n- زر \u0027الوضع النووي\u0027 للتحكم في الحظر بضغطة واحدة.\n\n⚡ تحسينات الأداء (Performance):\n- فتح 120 فريم حقيقي (Ultra FPS Unlocked).\n- تحسينات شاملة للريجستري (Registry Optimization) لتقليل اللاج.\n- نظام تنظيف الذاكرة الذكي (Smart Memory Force).\n\n🛡️ الحماية والأمان (Security):\n- تجاوز الوضع الآمن (Safe Mode Bypass) بذكاء.\n- إخفاء كامل لعمليات المحاكي (Stealth Mode).\n\n🔧 أدوات متقدمة (Advanced Tools):\n- تعديل ملفات اللعبة الداخلية (MMKV/SaveGames) تلقائياً.\n- وضع \u0027محمول\u0027 (Portable Mode) يعمل من أي مكان.\n- تحديث تلقائي ذكي.",
     "ReleaseDate":  "2026-02-13T00:00:00Z",
-    "FileSize":  113085067,
+    "FileSize":  113084050,
     "IsCritical":  false
 }
