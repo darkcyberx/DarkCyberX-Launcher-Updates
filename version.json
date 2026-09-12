@@ -1,8 +1,8 @@
 {
-    "Version":  "4.6.0",
-    "DownloadUrl":  "https://github.com/darkcyberx/DarkCyberX-Launcher-Updates/releases/download/v4.6.0/DarkCyberX_v4.6.0.zip",
-    "ReleaseNotes":  "🧛 DarkCyberX Professional v4.6.0 — نسخة خاصة مصاصي الدماء\n\n📌 التحديثات:\n\n🧛 ثيم الواجهة: نسخة خاصة — مصاصي الدماء + خلفية Bloodmoon.\n♻️ استعادة حساب الضيف فور الاتصال (بنفس أولوية المقاس والجرافيك).\n🎨 إصلاحات الجرافيك: نشر من قوالب الجودة + تطبيق مباشر في اللوبي.\n🔐 ترخيص Worker (pupg32) — fail-closed بدون offline grace.\n⚡ تحسينات الاتصال الفوري EarlyBoot / InstantApply.",
+    "Version":  "4.6.1",
+    "DownloadUrl":  "https://github.com/darkcyberx/DarkCyberX-Launcher-Updates/releases/download/v4.6.1/DarkCyberX_v4.6.1.zip",
+    "ReleaseNotes":  "🧛 DarkCyberX Professional v4.6.1 — نسخة خاصة مصاصي الدماء\n\n📌 التحديثات:\n\n🖥️ إصلاح مزامنة Config.ini: VMWidth/VMHeight تتحدث داخل [Engine_100038] مع الريجستري (مش 1920x1080 الثابتة).\n🔄 مزامنة كل نسخ Config.ini (ui + x64 / 32 + 64) عند تطبيق المقاس.\n🧛 ثيم مصاصي الدماء + استعادة الضيف فور الاتصال + إصلاحات الجرافيك من 4.6.0.",
     "ReleaseDate":  "2026-09-12T00:00:00Z",
-    "FileSize":  115900667,
+    "FileSize":  115848151,
     "IsCritical":  false
 }
