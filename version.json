@@ -1,8 +1,8 @@
 {
-    "Version":  "4.6.5",
-    "DownloadUrl":  "https://github.com/darkcyberx/DarkCyberX-Launcher-Updates/releases/download/v4.6.5/DarkCyberX_v4.6.5.zip",
-    "ReleaseNotes":  "🧛 DarkCyberX Professional v4.6.5\n\n📌 المقاس الداخلي بدون تأجيل:\n\n⚡ wm size يتطبّق فور الاتصال حتى لو اللعبة مفتوحة (سبلاش/لوبي/ماتش) — مفيش defer.\n🖥️ الكشف التلقائي من الشاشة الحقيقية → ريجستري + Config.ini (32/64) + wm size.",
+    "Version":  "4.6.7",
+    "DownloadUrl":  "https://github.com/darkcyberx/DarkCyberX-Launcher-Updates/releases/download/v4.6.7/DarkCyberX_v4.6.7.zip",
+    "ReleaseNotes":  "🧛 DarkCyberX Professional v4.6.7\n\n📌 كشف الشاشة = ويندوز حرفيًا:\n\n🖥️ EnumDisplaySettings (نفس مصدر إعدادات العرض في ويندوز).\n✅ أي مقاس شاشة حتى لو مش في قائمة المناظير يشتغل تلقائيًا.\n🔄 ريجستري + Config.ini (32/64) + wm size فور الاتصال بدون تأجيل.",
     "ReleaseDate":  "2026-09-12T00:00:00Z",
-    "FileSize":  115900886,
+    "FileSize":  115847749,
     "IsCritical":  false
 }
