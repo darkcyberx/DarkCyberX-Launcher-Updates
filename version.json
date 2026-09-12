@@ -1,8 +1,8 @@
 {
-    "Version":  "4.6.1",
-    "DownloadUrl":  "https://github.com/darkcyberx/DarkCyberX-Launcher-Updates/releases/download/v4.6.1/DarkCyberX_v4.6.1.zip",
-    "ReleaseNotes":  "🧛 DarkCyberX Professional v4.6.1 — نسخة خاصة مصاصي الدماء\n\n📌 التحديثات:\n\n🖥️ إصلاح مزامنة Config.ini: VMWidth/VMHeight تتحدث داخل [Engine_100038] مع الريجستري (مش 1920x1080 الثابتة).\n🔄 مزامنة كل نسخ Config.ini (ui + x64 / 32 + 64) عند تطبيق المقاس.\n🧛 ثيم مصاصي الدماء + استعادة الضيف فور الاتصال + إصلاحات الجرافيك من 4.6.0.",
+    "Version":  "4.6.2",
+    "DownloadUrl":  "https://github.com/darkcyberx/DarkCyberX-Launcher-Updates/releases/download/v4.6.2/DarkCyberX_v4.6.2.zip",
+    "ReleaseNotes":  "🧛 DarkCyberX Professional v4.6.2\n\n📌 إصلاح Config.ini التلقائي:\n\n🖥️ أي مقاس يتكشف/يتكتب في الريجستري ينعكس فورًا على Config.ini (VMWidth/VMHeight داخل Engine_100038).\n🔄 مزامنة قسرية مع تحقق بعد الكتابة + دمج أقسام Engine_100038 المكررة.\n⚡ المنطق أوتوماتيك: المقاس المكتشف = الريجستري = Config.ini.",
     "ReleaseDate":  "2026-09-12T00:00:00Z",
-    "FileSize":  115848151,
+    "FileSize":  115901778,
     "IsCritical":  false
 }
